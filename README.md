@@ -1,0 +1,3 @@
+# Software-Design-Pattern-SDP-Project
+A  project which simply implementing a simple networking site in Java language
+hope,all of you likes it.happy  coding...
