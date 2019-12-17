@@ -1,3 +1,3 @@
 # Software-Design-Pattern-SDP-Project
-A  project  simply implements a simple networking site in Java language using Netbeans IDE 
+A  project  simply denotes the miniature  of a social  networking site in Java language using Netbeans IDE 
 hope,all of you likes it.happy  coding...
